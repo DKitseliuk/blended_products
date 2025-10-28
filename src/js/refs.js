@@ -1,0 +1,25 @@
+const refs = {
+    body: document.querySelector("body"),
+    form: document.querySelector("form.search-form"),
+    categories: document.querySelector("ul.categories"),
+    productsList: document.querySelector("ul.products"),
+    loadMoreButton: document.querySelector(".load-more-btn"),
+    notFoundDiv: document.querySelector('.not-found'),    
+    modal: document.querySelector(".modal"),
+    modalProduct: document.querySelector("div.modal-product"),
+    modalCloseButton: document.querySelector(".modal__close-btn"),
+    modalWishlistButton: document.querySelector(".modal-product__btn--wishlist"),
+    modalCartButton: document.querySelector(".modal-product__btn--cart"),
+    formClearButton: document.querySelector(".search-form__btn-clear"),
+    cartProductsNumber: document.querySelector("span[data-cart-count]"),
+    wishlistProductsNumber: document.querySelector("span[data-wishlist-count]"),    
+    cartProductsCount: document.querySelector("span[data-count]"),
+    cartProductsPrice: document.querySelector("span[data-price]"),
+    cartBuyProductsButton: document.querySelector("button.cart-summary__btn"),
+    loader: document.querySelector("span.span-loader"),
+    themeToggleButton: document.querySelector("button.theme-toggle-btn"),
+    scrollTopButton: document.querySelector("button.scroll-top-btn"),
+    header: document.querySelector("header.header"),
+}
+
+export default refs;
