@@ -1,0 +1,2 @@
+import{j as e,r as t,h as r,k as n,a as o,b as a,o as d}from"./assets/handlers-lUvd9iOs.js";import"./assets/vendor-Cbhu4xvy.js";document.addEventListener("DOMContentLoaded",e);t.productsList.addEventListener("click",r);t.cartBuyProductsButton.addEventListener("click",n);t.themeToggleButton.addEventListener("click",o);t.scrollTopButton.addEventListener("click",a);d.observe(t.header);
+//# sourceMappingURL=cart.js.map

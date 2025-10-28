@@ -1,0 +1,2 @@
+import{c as t,r as e,d as r,e as a,h as d,f as n,g as o,a as s,o as i}from"./assets/handlers-lUvd9iOs.js";import"./assets/vendor-Cbhu4xvy.js";document.addEventListener("DOMContentLoaded",t);e.loadMoreButton.addEventListener("click",r);e.categories.addEventListener("click",a);e.productsList.addEventListener("click",d);e.form.addEventListener("submit",n);e.formClearButton.addEventListener("click",o);e.themeToggleButton.addEventListener("click",s);i.observe(e.header);
+//# sourceMappingURL=index.js.map
